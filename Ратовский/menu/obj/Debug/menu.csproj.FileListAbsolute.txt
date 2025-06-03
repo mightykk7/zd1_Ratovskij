@@ -1,0 +1,10 @@
+C:\Ратовский\menu\obj\Debug\menu.csproj.AssemblyReference.cache
+C:\Ратовский\menu\obj\Debug\menu.Menu.resources
+C:\Ратовский\menu\obj\Debug\menu.Properties.Resources.resources
+C:\Ратовский\menu\obj\Debug\menu.csproj.GenerateResource.cache
+C:\Ратовский\menu\obj\Debug\menu.csproj.CoreCompileInputs.cache
+C:\Ратовский\menu\bin\Debug\menu.exe.config
+C:\Ратовский\menu\bin\Debug\menu.exe
+C:\Ратовский\menu\bin\Debug\menu.pdb
+C:\Ратовский\menu\obj\Debug\menu.exe
+C:\Ратовский\menu\obj\Debug\menu.pdb

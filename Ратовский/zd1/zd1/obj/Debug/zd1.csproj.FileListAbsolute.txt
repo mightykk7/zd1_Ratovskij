@@ -1,0 +1,7 @@
+C:\Ратовский\zd1\zd1\bin\Debug\zd1.exe.config
+C:\Ратовский\zd1\zd1\bin\Debug\zd1.exe
+C:\Ратовский\zd1\zd1\bin\Debug\zd1.pdb
+C:\Ратовский\zd1\zd1\obj\Debug\zd1.csproj.AssemblyReference.cache
+C:\Ратовский\zd1\zd1\obj\Debug\zd1.csproj.CoreCompileInputs.cache
+C:\Ратовский\zd1\zd1\obj\Debug\zd1.exe
+C:\Ратовский\zd1\zd1\obj\Debug\zd1.pdb
