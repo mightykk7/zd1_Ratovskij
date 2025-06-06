@@ -18,3 +18,13 @@ C:\Users\st310-04\Desktop\zd1_Ratovskij-main\Ратовский\menu\obj\Debug\m
 C:\Users\st310-04\Desktop\zd1_Ratovskij-main\Ратовский\menu\obj\Debug\menu.csproj.CoreCompileInputs.cache
 C:\Users\st310-04\Desktop\zd1_Ratovskij-main\Ратовский\menu\obj\Debug\menu.exe
 C:\Users\st310-04\Desktop\zd1_Ratovskij-main\Ратовский\menu\obj\Debug\menu.pdb
+C:\Users\305-12\Desktop\zd1_Ratovskij-main\Ратовский\menu\bin\Debug\menu.exe.config
+C:\Users\305-12\Desktop\zd1_Ratovskij-main\Ратовский\menu\bin\Debug\menu.exe
+C:\Users\305-12\Desktop\zd1_Ratovskij-main\Ратовский\menu\bin\Debug\menu.pdb
+C:\Users\305-12\Desktop\zd1_Ratovskij-main\Ратовский\menu\obj\Debug\menu.csproj.AssemblyReference.cache
+C:\Users\305-12\Desktop\zd1_Ratovskij-main\Ратовский\menu\obj\Debug\menu.Menu.resources
+C:\Users\305-12\Desktop\zd1_Ratovskij-main\Ратовский\menu\obj\Debug\menu.Properties.Resources.resources
+C:\Users\305-12\Desktop\zd1_Ratovskij-main\Ратовский\menu\obj\Debug\menu.csproj.GenerateResource.cache
+C:\Users\305-12\Desktop\zd1_Ratovskij-main\Ратовский\menu\obj\Debug\menu.csproj.CoreCompileInputs.cache
+C:\Users\305-12\Desktop\zd1_Ratovskij-main\Ратовский\menu\obj\Debug\menu.exe
+C:\Users\305-12\Desktop\zd1_Ratovskij-main\Ратовский\menu\obj\Debug\menu.pdb

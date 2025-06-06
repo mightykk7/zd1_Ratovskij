@@ -11,6 +11,12 @@ namespace menu
         public string Author;
         public string Title;
         public string Filename;
-        
+
+        public Song(string title, string author, string filename)
+        {
+            Title = title;
+            Author = author;
+            Filename = filename;
+        }
     }
 }
